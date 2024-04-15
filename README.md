@@ -14,5 +14,5 @@ Oversaw and prepared ARR bookings file for external board reporting.
 ### Covid-19 E-Commerce Discovery 
 [Project Link](https://)
 
-![Covid-19 E-Commerce Discovery](/Assets/E-Commerce.webp)
+![Covid-19 E-Commerce Discovery](/Assets/Store.jpeg)
 
