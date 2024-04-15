@@ -1,5 +1,8 @@
 # Data-Analytics
 
+#### Technical Skills: SQL, Excel, Tableau, PowerBI, Salesforce, NetSuite
+
+
 ### Work Experience
 Senior, Manager, Revenue Analysis @ Highspot, Inc. 
 
