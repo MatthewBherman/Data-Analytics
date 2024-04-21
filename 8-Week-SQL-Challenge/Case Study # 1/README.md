@@ -1,11 +1,13 @@
 # Case Study #1: Danny's Diner
 
 ## Context: 
-Danny’s Diner is in need of your assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+Danny’s Diner is facing challenges in maintaining its operations and needs analytical support to utilize its existing data effectively. Over the initial months of operation, the diner has collected basic data but lacks the expertise to analyze this information to enhance business operations.
 
 ### Database Schema 
 
-![Covid-19 E-Commerce Discovery](/Assets/Store.jpeg)
+Please see the below tables that I'm using in this process
+
+![Database Schema](/Assets/image.png)
 
 ### What is the total amount of sales for each customer?
 
